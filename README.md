@@ -1,6 +1,6 @@
 ![ds logo (1)](https://github.com/KawsarAhmad43/DataStrom-Design/assets/54704888/c145e2c1-536e-4772-9201-e601a9289698)
 
-<p align="center">![ds logo (1)](https://github.com/KawsarAhmad43/DataStrom-Design/assets/54704888/c145e2c1-536e-4772-9201-e601a9289698)</p>
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
